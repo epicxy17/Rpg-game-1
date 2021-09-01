@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ObjectInspection",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3193610f35bd41e0bd9063dbd8e7ad23"
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		}
+	]
+}
